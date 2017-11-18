@@ -37,6 +37,5 @@ router.post('/burger/eat/:id', function (req, res) {
 });
 // ----------------------------------------------------
 
-
 // Export routes
 module.exports = router;
